@@ -19,6 +19,7 @@ body {
     height: 400px;
     position: relative;
     overflow: hidden;
+    margin-top: 30px;
 }
 .letter {
     color: red;
